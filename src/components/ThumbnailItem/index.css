@@ -1,0 +1,16 @@
+/* Write your code here. */
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.btn {
+  border: none;
+}
+.thumbnail {
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
